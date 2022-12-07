@@ -9,7 +9,7 @@
   "author": "shubham soni",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.14.0",
+    "express": "^4.17.3",
     "request": "^2.81.0",
     "ejs": "*",
     "body-parser": "*",
